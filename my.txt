@@ -12,3 +12,6 @@ afdasfdsaf
 desktop
 
 update from web
+
+
+update from centos
